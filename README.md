@@ -20,6 +20,11 @@
 
 ----
 
+## Growth Mindset
+
+>[Growth Mindset](./GrowthMindset/GM.md)
+
+---
 #### Week 1
 >[(Class 01a) Node js Ecosystem](./Week1/Class01a.md)
 

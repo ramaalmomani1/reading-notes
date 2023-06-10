@@ -21,3 +21,21 @@
 ## Things I want to know more about
 > Building Real-Time Applications with Node.js
 
+---
+
+## Additional Questions
+
+Looking ahead at this module’s course schedule, What do you look forward to learning?
+
+> * React Native
+> * Authentication / Authorization
+> * Real-time apps with Socket.io
+
+
+What are your learning goals after reading and reviewing the class README?
+
+> * Setup a Node.js Package using npm
+> * Create CommonJS modules
+> * Create a simple express server
+> * See passing tests via CI using GitHub actions (Continuous Integration)
+> * Deploy to the cloud using CD (Continuous Deployment)
