@@ -81,7 +81,7 @@ iii. Thoroughly tested software ensures reliable and high-performance software o
 
 3. Explain how GitHub fits into this process assuming the listener comes from a non-technical background.
 
->
+>GitHub serves as a collaboration platform. Allows developers to integrate their work, test and deploy software.
 
 ---
 
