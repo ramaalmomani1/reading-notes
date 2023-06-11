@@ -26,8 +26,9 @@
 
 ---
 #### Week 1
->[(Class 01a) Node js Ecosystem](./Week1/Class01a.md)
+>[1. (Class 01a) Node js Ecosystem](./Week1/Class01a.md)
 
->[(Class 01b) Express, NPM, TDD, CI/CD](./Week1/Class01b.md)
+>[2. (Class 01b) Express, NPM, TDD, CI/CD](./Week1/Class01b.md)
 
+>[3. Data Structures and Algorithms](./Week1/DSA.md)
 
