@@ -20,15 +20,12 @@
 
 ----
 
-## Growth Mindset
-
->[Growth Mindset](./GrowthMindset/GM.md)
-
----
 #### Week 1
->[1. (Class 01a) Node js Ecosystem](./Week1/Class01a.md)
 
->[2. (Class 01b) Express, NPM, TDD, CI/CD](./Week1/Class01b.md)
 
->[3. Data Structures and Algorithms](./Week1/DSA.md)
-
+| Assignment | Link     | 
+|----------  |----------|
+| Growth Mindset      | [Growth Mindset](./GrowthMindset/GM.md)   | 
+|  Node js Ecosystem      | [CLASS01a](./Week1/Class01a.md)   | 
+| Data Structures and Algorithms      |  [CLASS01b](./Week1/DSA.md)  | 
+| Express REST API   |  [CLASS02](./Week1/Class02.md)  | 
