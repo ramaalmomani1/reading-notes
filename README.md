@@ -29,3 +29,4 @@
 |  Node js Ecosystem      | [CLASS01a](./Week1/Class01a.md)   | 
 | Data Structures and Algorithms      |  [CLASS01b](./Week1/DSA.md)  | 
 | Express REST API   |  [CLASS02](./Week1/Class02.md)  | 
+| Linked list & big O   |  [CLASS03](./Week1/Class03.md)  | 
