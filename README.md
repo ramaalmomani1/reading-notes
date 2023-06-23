@@ -31,3 +31,4 @@
 | Express REST API   |  [CLASS02](./Week1/Class02.md)  | 
 | Linked list & big O   |  [CLASS03](./Week1/Class03.md)  | 
 | Data Modeling(sql vs nosql)  |  [CLASS04](./Week%202/Class03.md)  | 
+| Authentication |  [CLASS06](./Week%202/Class06.md)  | 
