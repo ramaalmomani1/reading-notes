@@ -6,8 +6,7 @@
 
 1. What is Role Based Access Control (RBAC) and why do we care?
 
-> RBAC is a security model provides a structured and efficient approach to managing access control, and ensuring compliance within organizations.role-based access control, is a framework built around defined roles, each with associate permissions. Users are then assigned to one of these roles, to determine which actions they can take within the app.
-assigns permissions and access rights to predefined roles rather than individual users. RBAC simplifies access control management by centralizing permissions, making it easier to control and track user privileges.
+> Is a security model built around defined roles, each with associate permissions. Users are then assigned to one of these roles, to determine which actions they can take. RBAC simplifies access control management by centralizing permissions, making it easier to control and track user privileges.
 
 2. Describe a Role/Permission heirarchy that you might implement using RBAC.
 
