@@ -35,5 +35,5 @@
 | Bearer Authorization |  [CLASS07](./Week3/Class07.md)  | 
 | Access Control (ACL) |  [CLASS08](./Week%204/Class08.md)  | 
 | Event Driven Applications |  [CLASS11](./Week%205/class11.md)  | 
-
+| Socket.io |  [CLASS12](./Week%205/class12.md)  | 
 
