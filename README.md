@@ -36,4 +36,6 @@
 | Access Control (ACL) |  [CLASS08](./Week%204/Class08.md)  | 
 | Event Driven Applications |  [CLASS11](./Week%205/class11.md)  | 
 | Socket.io |  [CLASS12](./Week%205/class12.md)  | 
+| Message Queues|  [CLASS13](./Week%205//class%2013.md)  | 
+
 
