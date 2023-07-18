@@ -37,5 +37,6 @@
 | Event Driven Applications |  [CLASS11](./Week%205/class11.md)  | 
 | Socket.io |  [CLASS12](./Week%205/class12.md)  | 
 | Message Queues|  [CLASS13](./Week%205//class%2013.md)  | 
+| AWS: Cloud Servers|  [CLASS16](./Week%205/class16.md)  | 
 
 
