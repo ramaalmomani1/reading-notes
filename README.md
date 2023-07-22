@@ -38,5 +38,6 @@
 | Socket.io |  [CLASS12](./Week%205/class12.md)  | 
 | Message Queues|  [CLASS13](./Week%205//class%2013.md)  | 
 | AWS: Cloud Servers|  [CLASS16](./Week%205/class16.md)  | 
+| AWS: S3 and Lambda|  [CLASS17](./Week%206/class17.md)  | 
 
 
