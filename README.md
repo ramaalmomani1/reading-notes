@@ -39,5 +39,6 @@
 | Message Queues|  [CLASS13](./Week%205//class%2013.md)  | 
 | AWS: Cloud Servers|  [CLASS16](./Week%205/class16.md)  | 
 | AWS: S3 and Lambda|  [CLASS17](./Week%206/class17.md)  | 
+| AWS: API, Dynamo and Lambda|  [CLASS18](./Week%206/class18.md)  | 
 
 
