@@ -43,3 +43,11 @@
 | AWS: Events|  [CLASS19](./Week%206/class19.md)  | 
 
 
+----
+
+### Front-end
+
+
+| Assignment | Link     | 
+|----------  |----------|
+| React Quick Start  | [class26](./front-end/week1/class26.md)   | 
