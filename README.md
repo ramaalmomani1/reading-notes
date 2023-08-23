@@ -52,3 +52,4 @@
 |----------  |----------|
 | React Quick Start  | [class26](./front-end/week1/class26.md)   | 
 | useState() Hook  | [class27](./front-end/week1/class27.md)   | 
+| useEffect Hook  | [class28](./front-end/week1/class28.md)   | 
