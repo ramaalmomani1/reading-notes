@@ -55,3 +55,4 @@
 | useEffect Hook  | [class28](./front-end/week1/class28.md)   | 
 | Advanced State with Reducers  | [class29](./front-end/week2/class29.md)   |
 | Context API  | [class30](./front-end/week3/class30.md)   |  
+|  Context API - Behaviors  | [class31](./front-end/week3/class31.md)   |  
