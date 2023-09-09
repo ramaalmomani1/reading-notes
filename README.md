@@ -56,3 +56,5 @@
 | Advanced State with Reducers  | [class29](./front-end/week2/class29.md)   |
 | Context API  | [class30](./front-end/week3/class30.md)   |  
 |  Context API - Behaviors  | [class31](./front-end/week3/class31.md)   |  
+|  Login and Auth  | [class33](./front-end/week4/class33.md)   |  
+|  API Integration | [class34](./front-end/week4/class34.md)   |  
