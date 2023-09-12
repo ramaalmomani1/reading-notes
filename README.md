@@ -58,3 +58,4 @@
 |  Context API - Behaviors  | [class31](./front-end/week3/class31.md)   |  
 |  Login and Auth  | [class33](./front-end/week4/class33.md)   |  
 |  API Integration | [class34](./front-end/week4/class34.md)   |  
+|  Application State with Redux | [class36](./front-end/week4/class36.md)   |  
