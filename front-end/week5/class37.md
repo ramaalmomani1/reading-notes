@@ -35,7 +35,7 @@
 
 3. How would you define initial state in an app using combineReducers?
 
-> 
+> by providing a preloadedState when creating the store using createStore. Second, reducers can specify their initial state by checking if the incoming state is undefined and returning a default value. If preloadedState is provided, it overrides the initial state defined in reducers. If not, the reducer's default initial state is used.
 
 ----
 
@@ -43,7 +43,12 @@
 
 1. Why will you want to split your reducing functions as your app becomes more complex?
 
+> To simplifies code, and eases collaboration and debugging.
 
 2. The _____ helper function turns an object whose values are different reducing functions into a single reducing function you can pass to ____.
 
+> combineReducers,  createStore.
+
 3. What is a popular convention when naming reducers?
+
+>  A common practice is to name reducers after the state slices they handle. For instance, if you manage "counter" and "todos" slices, simply use shorthand notation like counter and todos when combining them, enhancing code clarity and brevity.
