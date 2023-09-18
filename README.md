@@ -60,3 +60,4 @@
 |  API Integration | [class34](./front-end/week4/class34.md)   |  
 |  Application State with Redux | [class36](./front-end/week4/class36.md)   |  
 |  Redux - Combined Reducers | [class37](./front-end/week5/class37.md)   |  
+|  Redux - Asynchronous Actions | [class38](./front-end/week5/class38.md)   |  
