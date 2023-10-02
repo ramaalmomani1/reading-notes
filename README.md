@@ -63,3 +63,4 @@
 |  Redux - Asynchronous Actions | [class38](./front-end/week5/class38.md)   |  
 |  Redux - Additional Topics | [class39](./front-end/week5/class39.md)   |  
 |   React Native | [class41](./front-end/week6/class41.md)   |  
+|  Ethics | [Ethics](./front-end/week6/ethics.md)   |  
