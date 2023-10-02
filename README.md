@@ -64,3 +64,4 @@
 |  Redux - Additional Topics | [class39](./front-end/week5/class39.md)   |  
 |   React Native | [class41](./front-end/week6/class41.md)   |  
 |  Ethics | [Ethics](./front-end/week6/ethics.md)   |  
+|  Open-Source Software Contribution | [OSS](./front-end/week6/OSS.md)   |  
